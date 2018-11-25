@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PJHubsKit_Example' do
+  pod 'PJHubsKit', :path => '../'
+
+  target 'PJHubsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
