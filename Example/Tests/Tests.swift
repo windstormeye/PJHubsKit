@@ -14,7 +14,7 @@ class Tests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
+        print(UIDevice.current.deviceIdentifier)
         XCTAssert(true, "Pass")
     }
     

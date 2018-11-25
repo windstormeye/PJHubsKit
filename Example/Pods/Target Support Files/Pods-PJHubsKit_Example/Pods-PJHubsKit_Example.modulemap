@@ -1,0 +1,6 @@
+framework module Pods_PJHubsKit_Example {
+  umbrella header "Pods-PJHubsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - PJHubsKit (0.0.1)
+
+DEPENDENCIES:
+  - PJHubsKit (from `../`)
+
+EXTERNAL SOURCES:
+  PJHubsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PJHubsKit: 9777d004bd20f60a5df5a801e6fd6e044c232b0e
+
+PODFILE CHECKSUM: 5a8c3c20cd980100fcb6371cdec272c3a7630132
+
+COCOAPODS: 1.5.3
